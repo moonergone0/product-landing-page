@@ -1,7 +1,7 @@
 # product-landing-page
 
 **Project Name**
-Product Landing Page
+Product Landing Page : https://moonergone0.github.io/product-landing-page/#features
 
 **Description**
 A responsive product landing page built with HTML and CSS.
@@ -14,10 +14,6 @@ A responsive product landing page built with HTML and CSS.
 + Embedded video for product demonstration
 + Footer with copyright information
 
-**Installation**
-1. Clone the repository: git clone https://github.com/your-username/product-landing-page.git
-2. Open the project directory: cd product-landing-page
-3. Open the index.html file in your web browser.
 
 **Usage**
 + Scroll through the page to explore different sections.
